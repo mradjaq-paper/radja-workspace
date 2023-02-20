@@ -1,6 +1,3 @@
-# radja-workspace
-My Personal Workspace
-
 # 💫 About Me:
 Hello, You can call me Radja, I am currently work as Frontend/Mobile Engineer.<br>I do love One Piece, One Piece is not just common anime!
 
